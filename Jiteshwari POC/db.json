@@ -1,0 +1,163 @@
+{
+  "posts": [
+    {
+      "cusDetails": [
+        {
+          "fname": "jit",
+          "lname": "sahu",
+          "email": "dsa@gmail.com",
+          "contact": "87667876",
+          "owner": "false"
+        }
+      ],
+      "proDetails": [
+        {
+          "proName": "prakash Bhavan",
+          "proType": "House",
+          "proRooms": "1",
+          "proKichens": "1",
+          "proLivRoom": "1",
+          "proBathroom": "1",
+          "proGarden": "true"
+        }
+      ],
+      "addrDetails": [
+        {
+          "address1": "",
+          "address2": "",
+          "city": "Bhilai",
+          "state": "Chhattisgarh",
+          "country": "India"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "cusDetails": [
+        {
+          "fname": "bhupy",
+          "lname": "sahu",
+          "email": "mahi@gmail.com",
+          "contact": "8349430092",
+          "owner": "true"
+        }
+      ],
+      "proDetails": [
+        {
+          "proName": "Abhay Niwas",
+          "proType": "House",
+          "proRooms": "1",
+          "proKichens": "1",
+          "proLivRoom": "1",
+          "proBathroom": "1",
+          "proGarden": "true"
+        }
+      ],
+      "addrDetails": [
+        {
+          "address1": "asoga",
+          "address2": "asoga",
+          "city": "Raipur",
+          "state": "Chhattisgarh",
+          "country": "India"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "cusDetails": [
+        {
+          "fname": "chaman",
+          "lname": "lal",
+          "email": "lal@gmail.com",
+          "contact": "9755792255",
+          "owner": "false"
+        }
+      ],
+      "proDetails": [
+        {
+          "proName": "shindiya",
+          "proType": "Apartment",
+          "proRooms": "1",
+          "proLivRoom": "1",
+          "proBathroom": "1",
+          "proGarden": "true"
+        }
+      ],
+      "addrDetails": [
+        {
+          "address1": "patan",
+          "address2": "patan",
+          "city": "durg",
+          "state": "Chhattisgarh",
+          "country": "India"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "cusDetails": [
+        {
+          "fname": "jagriti",
+          "lname": "lal",
+          "email": "Jag12@gmail.com",
+          "contact": "9009272393",
+          "owner": "true"
+        }
+      ],
+      "proDetails": [
+        {
+          "proName": "baikundh dham",
+          "proType": "Villa",
+          "proRooms": "2",
+          "proLivRoom": "1",
+          "proBathroom": "1",
+          "proGarden": "true"
+        }
+      ],
+      "addrDetails": [
+        {
+          "streetAddress": "ramnagar",
+          "address1": "supela",
+          "address2": "bhilai",
+          "city": "bilaspur",
+          "state": "chandighar",
+          "country": "india"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "cusDetails": [
+        {
+          "fname": "Prakash",
+          "lname": "Nair",
+          "email": "nair89@gmail.com",
+          "contact": "9755445589",
+          "owner": "false"
+        }
+      ],
+      "proDetails": [
+        {
+          "proName": "chaman property",
+          "proType": "Villa",
+          "proRooms": "5",
+          "proLivRoom": "2",
+          "proBathroom": "2",
+          "proGarden": "true"
+        }
+      ],
+      "addrDetails": [
+        {
+          "streetAddress": "kalibadi",
+          "address1": "sector 5",
+          "address2": "hudko",
+          "city": "jaspur",
+          "state": "ambikapur",
+          "country": "india"
+        }
+      ],
+      "id": 6
+    }
+  ]
+}
